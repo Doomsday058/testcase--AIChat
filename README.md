@@ -14,7 +14,7 @@
 ---
 
 ## 📸 Интерфейс
-![Uploading {F30715A3-6F5B-49C9-8359-72D1A8E76E1E}.png…]()
+![5469686026382019627](https://github.com/user-attachments/assets/48539bd8-024a-421f-87aa-c65c4157c9fc)
 ---
 
 ## ✨ Ключевые особенности
@@ -70,7 +70,7 @@ npm install
 cd client
 npm install
 ```
-###Создайте файл .env:
+### Создайте файл .env:
 ```bash
 VITE_API_URL=http://localhost:3000/api
 ```
