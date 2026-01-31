@@ -14,7 +14,7 @@
 ---
 
 ## 📸 Интерфейс
-![5469686026382019627](https://github.com/user-attachments/assets/48539bd8-024a-421f-87aa-c65c4157c9fc)
+<img width="2070" height="1248" alt="{E8CFD57A-4B58-478A-BB57-576F986045A1}" src="https://github.com/user-attachments/assets/070c521f-0add-4ac9-82fd-27dfd8a52013" />
 ---
 
 ## ✨ Ключевые особенности
